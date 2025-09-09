@@ -3,6 +3,10 @@
 ### 👨‍💻 Entusiasta em Back-End e Análise de Dados
 
 
+Me chamo Guilherme, tenho 19 anos e sou natural do Piauí.  
+Atualmente, estou graduando Gestão de Dados pela Universidade Federal do Piauí (UFPI).
+
+
 
 ---
 
