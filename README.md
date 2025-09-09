@@ -16,6 +16,9 @@ Atualmente, estou graduando Gestão de Dados pela Universidade Federal do Piau�
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
 
 
 ---
