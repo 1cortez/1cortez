@@ -1,6 +1,6 @@
 # Guilherme Cortez
 
-### 👨‍💻 Entusiasta em Back-End e Análise de Dados
+### 👨‍💻 Entusiasta em Back-End e Ciêmcia de Dados
 
 
 ---
